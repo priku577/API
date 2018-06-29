@@ -1,4 +1,5 @@
 
+
 ##Prerequsite
 
 need sqlite3 db
@@ -18,7 +19,11 @@ python app.py
 then go to http://localhost:5000/Branches/
 
 http://localhost:5000/StockholmBranch/
+
+
 http://localhost:5000/completeData
+
+
 http://localhost:5000/KirunaBranch/
 
 
